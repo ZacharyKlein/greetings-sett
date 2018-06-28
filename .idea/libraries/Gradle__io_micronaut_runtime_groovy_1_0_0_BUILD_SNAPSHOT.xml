@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micronaut:runtime-groovy:1.0.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/runtime-groovy/1.0.0.BUILD-SNAPSHOT/dae27cd6fd0dcc6ad6f279e8603efed4b060ebe0/runtime-groovy-1.0.0.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/runtime-groovy/1.0.0.BUILD-SNAPSHOT/20a31e18ceb255964b684a6ef96320507c5c2108/runtime-groovy-1.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

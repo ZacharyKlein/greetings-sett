@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: greetings
+---
+testFramework: spock
+sourceLanguage: groovy
