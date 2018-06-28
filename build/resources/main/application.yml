@@ -1,5 +1,0 @@
-micronaut:
-    application:
-        name: greetings
-    server:
-        port: 8080
